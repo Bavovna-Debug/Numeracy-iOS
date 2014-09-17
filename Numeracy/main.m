@@ -8,11 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-#import "NumeracyAppDelegate.h"
+#import "HALApplicationDelegate.h"
 
 int main(int argc, char * argv[])
 {
     @autoreleasepool {
-        return UIApplicationMain(argc, argv, nil, NSStringFromClass([NumeracyAppDelegate class]));
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([HALApplicationDelegate class]));
     }
 }
