@@ -35,7 +35,7 @@
     self.window.rootViewController = self.mainViewController;
     
     [self.window makeKeyAndVisible];
-    
+
     return YES;
 }
 

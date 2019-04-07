@@ -116,7 +116,6 @@
 
 - (void)digitPressed:(short)digit
 {
-    
     switch ([self arithmetic])
     {
         case HALArithmeticAddBegun:
